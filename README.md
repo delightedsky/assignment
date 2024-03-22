@@ -1,4 +1,5 @@
 #백희민, 202104363, 컴퓨터공학과
+#최겸, 201903532, 컴퓨터전자시스템공학부
 
 # Getting Started with Create React App
 
